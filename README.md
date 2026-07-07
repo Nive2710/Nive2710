@@ -25,34 +25,12 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=eclipse"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,vscode,eclipse,python"/>
 </p>
 
----
+<p>
+<b>Tools & Technologies:</b> JDBC • SQL • TensorFlow • OpenCV • Anaconda Navigator • PyCharm • Postman
+</p>
 
 ## 📌 Featured Projects
 
@@ -78,14 +56,6 @@ Employee payroll management using JDBC, PreparedStatement and MySQL.
 Developed a Generative AI model using Convolutional Autoencoder and Softmax classifier to classify Alzheimer's disease into four stages.
 
 📄 Published in IEEE Conference.
-
----
-
-### ✅ Graphical Password Authentication
-
-**Java • Image Steganography**
-
-Implemented secure authentication using graphical passwords with image steganography.
 
 ---
 
@@ -157,11 +127,19 @@ CGPA: **8.86**
 
 ## 📄 Research Publication
 
-**A Modern Generative AI Framework for Alzheimer's Disease Detection Leveraging Autoencoders and Softmax Classifier**
+### 📌 Graphical Password Authentication using Image Steganography
 
-Published in IEEE Conference.
+**Technologies:• Image Steganography
+
+Published as part of my research work, proposing a secure graphical password authentication system that enhances user authentication by integrating image steganography techniques to improve security and resist common password attacks.
 
 ---
+
+### 📌 A Modern Generative AI Framework for Alzheimer's Disease Detection Leveraging Autoencoders and Softmax Classifier
+
+**Technologies:** Python • TensorFlow • Deep Learning • Convolutional Autoencoder • Softmax 
+
+Published in an IEEE Conference. Developed a Generative AI-based framework that extracts latent features using a Convolutional Autoencoder and classifies Alzheimer's disease into four stages using a Softmax classifier.
 
 ## 🌐 Connect with Me
 
