@@ -67,43 +67,11 @@ Designed a Smart Traffic Signal with automatic barrier gate and emergency vehicl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nive2710&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nive2710&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nive2710&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nive2710&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
 ## 📚 Education
 
 🎓 **B.Tech Information Technology**
 
-Anna University
+Anna University-Panimalar Engineering College
 
 Graduated in **2025**
 
@@ -115,11 +83,11 @@ CGPA: **8.86**
 
 ✔ NPTEL Java Programming
 
-✔ Oracle Java
+✔ Full Stack Development-WIPRO
 
-✔ Python Programming
+✔ Artifical Intelligence-NOVITECH
 
-✔ AI for India
+✔ Cloud Computing-TCSION
 
 ✔ Cyber Defence Engineering using Python
 
