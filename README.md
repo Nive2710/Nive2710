@@ -29,7 +29,7 @@
 </p>
 
 <p>
-<b>Tools & Technologies:</b> JDBC • SQL • TensorFlow • OpenCV • Anaconda Navigator • PyCharm • Postman
+<b>Tools & Technologies:</b> JDBC • SQL • Hibernate . TensorFlow • OpenCV • Anaconda Navigator • PyCharm 
 </p>
 
 ## 📌 Featured Projects
